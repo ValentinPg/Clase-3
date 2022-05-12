@@ -1,0 +1,67 @@
+#Titulo { 
+    color: tomato ;
+}
+p.especial {
+    color: blue;
+}
+p.texto { 
+    color: aqua;
+}
+
+div p{  
+    color: aquamarine;
+}
+
+div h2, div h3 {
+    color: brown;
+}
+
+* { 
+    font-size: xx-large;
+}
+/*.color {/*
+ /* border: 3px blue ridge;
+ border-style: dashed;
+ border-color: lightcoral;
+ border-radius: 3px;
+ border-width: 10px;
+} */
+
+#fondo {
+    background: cornflowerblue url(chuerk.png) no-repeat center /100px 100px ;
+    background-size: 100px;
+}
+.margen { 
+    background-color: chocolate;
+    margin: 5px 5px 5px 5px ;
+    padding: 30px 10px 20px 40px;
+    border: dashed 5px;
+    height: 100px;
+    width: 50px;
+    overflow: scroll;
+    outline: 10px solid rebeccapurple;
+}
+.texto {
+    text-align: center;
+    text-decoration: line-through black;
+    text-shadow: 3px 5px 3px black;
+    font-family: "roboto", sans-serif;
+}
+a:link  { color: red; width: 60px; text-shadow: 10px 5px 13px;}
+a:visited {color: black;}
+a:hover {color: lightblue;}
+
+ul {color: aqua;
+    background-color: blue;
+list-style-type: decimal;
+list-style-position:inherit;}
+
+/* h*/
+
+
+
+
+
+
+
+/* coemntario.txt */ 
